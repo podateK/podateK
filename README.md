@@ -13,6 +13,6 @@
 <div style="text-align: center; margin-top: 40px;">
   <h3>My Discord</h3>
   <a href="https://discord.com/users/1251936015426388098">
-    <img src="https://lanyard.cnrad.dev/api/1251936015426388098" />
+    <img src="https://lanyard.cnrad.dev/api/1251936015426388098?showDisplayName=true" />
   </a>
 </div>
