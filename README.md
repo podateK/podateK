@@ -5,3 +5,5 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=podateK&hide_title=true&hide_border=true&layout=compact&theme=chartreuse-dark&bg_color=00000000"/></a> 
 <a href="#"><src=[![Discord Presence](https://lanyard.cnrad.dev/api/1184501395622211645)](https://discord.com/users/1184501395622211645></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podateK&theme=dark" width="50%" align="left">
+<a href="https://discord.com/users/1251936015426388098"><img src="https://lanyard.cnrad.dev/api/1251936015426388098" /></a>
